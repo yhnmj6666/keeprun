@@ -1,0 +1,14 @@
+[
+  {
+    "name":"program1",
+    "path":"p:\\ath\\to\\program",
+    "exec":"executable.exe",
+    "args":"--argument 1"
+  },
+  {
+    "name":"program2",
+    "path":"p:\\ath\\to\\another\\program",
+    "exec":"e2.exe",
+    "args":""
+  }
+]

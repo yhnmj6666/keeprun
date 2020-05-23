@@ -1,0 +1,8 @@
+# Keep Running
+my programs.
+
+## What is this?
+A python script with a config file that keeps programs specified in the config runing (and auto re-launching)
+
+* Currently runs only on windows platform
+* Feel free to fork :P
